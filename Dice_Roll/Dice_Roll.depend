@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1611946103 source:/home/dex/C++/Dice_Roll/main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
